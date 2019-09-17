@@ -1,25 +1,19 @@
-body {
-         background-image: url("myBackground.JPG");
+body {   background-image: url("myBackground.JPG");
          background-repeat: no-repeat;
          background-color: rgb(4, 51, 128);
          background-position: center;
          background-size: cover;
         }
-      h1 {
-         color: rgb(255,255,255);
+h1 {color: rgb(255,255,255);
          text-align: center;
       }
-      p {
-         color: rgb(255,255,255);
+p {color: rgb(255,255,255);
          text-align: center;
       }
-      #banner {
-         display: block;
+#banner {display: block;
          margin-left: auto;
          margin-right: auto;
-      table {
-        cellspacing: 20;
-        margin-left: auto;
+table { margin-left: auto;
         margin-right: auto;
-        width: 400;
+        width: 800px;
       }
