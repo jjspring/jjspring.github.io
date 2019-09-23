@@ -15,7 +15,7 @@ p {color: rgb(255,255,255);
          margin-right: auto;
 }
 .nav-table {width: 800px;
-         align: center;
+         text-align: center;
       }
 #nav-td {width: 200px;
          text-align: center;
