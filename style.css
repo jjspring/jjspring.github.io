@@ -7,9 +7,6 @@ body {   background-image: url("myBackground.JPG");
 h1 {color: rgb(255,255,255);
          text-align: center;
       }
-p {color: rgb(255,255,255);
-         text-align: center;
-      }
 #dancingheader {text-align: left;
       }
 #dancingparagraph {color: rgb(255,255,255);
@@ -41,4 +38,9 @@ p {color: rgb(255,255,255);
 #js-td {
          width: 400px;
          text-align: center;
+}
+#js-td2 {
+         text-color: rgb(255,255,255);
+         text-align: center;
+         width: 400px;
 }
