@@ -7,6 +7,9 @@ body {   background-image: url("myBackground.JPG");
 h1 {color: rgb(255,255,255);
          text-align: center;
       }
+p  {color: rgb(255,255,255);
+         text-align: center;
+}
 #dancingheader {text-align: left;
       }
 #dancingparagraph {color: rgb(255,255,255);
