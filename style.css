@@ -25,6 +25,14 @@ p  {color: rgb(255,255,255);
          text-align: right;
          width: 400px;
 }
+#formattedIntHeader {color: rgb(255,255,255);
+         text-align: right;
+         width: 400px;
+}
+#bitmojiLineHeader {color: rgb(255,255,255);
+         text-align: right;
+         width: 400px;
+}
 #racingheader {text-align: right;
       }
 #racingparagraph {color: rgb(255,255,255);
