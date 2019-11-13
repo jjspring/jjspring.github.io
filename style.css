@@ -33,6 +33,11 @@ p  {
          text-align: center;
          width: 400px;
 }
+#froggerHeader {
+         color: rgb(255,255,255);
+         text-align: center;
+         width: 400px;
+}
 #quizHeader {
          color: rgb(255,255,255);
          text-align: center;
