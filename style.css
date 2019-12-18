@@ -27,6 +27,11 @@ script   {
 #gameP   {
          color: rgb(255,255,255);
          text-align: center;
+         width: 800px;
+}
+iframe   {
+         margin-left: auto;
+         margin-right: auto;
 }
 #dancingheader {
          color: rgb(255, 255, 255);
