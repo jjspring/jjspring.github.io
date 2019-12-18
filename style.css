@@ -20,6 +20,14 @@ script   {
          margin: auto;
          align: center;
 }
+#game    {
+         align: center;
+         margin: auto;
+}
+#gameP   {
+         color: rgb(255,255,255);
+         text-align: center;
+}
 #dancingheader {
          color: rgb(255, 255, 255);
          text-align: center;
